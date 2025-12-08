@@ -1,6 +1,9 @@
+![Language](https://img.shields.io/badge/language-Java-blue)
+![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
+![AutoSync](https://img.shields.io/badge/sync-LeetHub-v2-green)
 # LeetCode Solutions
 
-My organized LeetCode solutions in Java for DSA and interview preparation.
+Well-structured LeetCode solutions in Java focused on DSA and interview preparation.
 
 ---
 
@@ -43,3 +46,7 @@ Each problem is stored in its own folder:
 ## Automation
 
 All accepted solutions are automatically pushed using LeetHub v2.
+## Progress
+
+Problems are continuously added as I solve new challenges on LeetCode.
+
