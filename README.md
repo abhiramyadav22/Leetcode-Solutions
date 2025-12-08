@@ -1,6 +1,7 @@
 ![Language](https://img.shields.io/badge/language-Java-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
-![AutoSync](https://img.shields.io/badge/sync-LeetHub-v2-green)
+![Sync](https://img.shields.io/badge/sync-LeetHub_v2-green)
+
 # LeetCode Solutions
 
 Well-structured LeetCode solutions in Java focused on DSA and interview preparation.
