@@ -79,6 +79,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0045-jump-game-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -99,6 +100,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
