@@ -15,7 +15,6 @@ int result=0;
     for(int j=0;j<size;j++) {
         result+=Math.min(topView[j],leftView[i])-grid[i][j];
     }
-
   }
   return result;
     }
