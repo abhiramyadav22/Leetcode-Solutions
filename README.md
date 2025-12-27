@@ -230,4 +230,8 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
