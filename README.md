@@ -69,6 +69,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0023-merge-k-sorted-lists](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Merge Sort
 |  |
@@ -89,6 +90,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
