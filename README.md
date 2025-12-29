@@ -68,6 +68,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
