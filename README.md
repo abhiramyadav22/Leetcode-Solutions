@@ -175,6 +175,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
