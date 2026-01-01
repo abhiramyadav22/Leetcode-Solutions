@@ -100,6 +100,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Math
@@ -109,6 +110,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Geometry
 |  |
@@ -193,6 +195,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -213,6 +216,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
 | ------- |
