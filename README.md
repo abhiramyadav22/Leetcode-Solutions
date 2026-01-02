@@ -95,6 +95,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -150,6 +151,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Greedy
 |  |
