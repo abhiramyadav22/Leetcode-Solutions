@@ -101,6 +101,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1390-four-divisors](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -221,6 +222,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Stack
 |  |
 | ------- |
