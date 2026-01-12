@@ -100,6 +100,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1390-four-divisors](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -118,6 +119,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0172-factorial-trailing-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -128,6 +130,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Sorting
 |  |
 | ------- |
