@@ -263,11 +263,13 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -277,6 +279,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Trie
 |  |
@@ -329,4 +332,8 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
