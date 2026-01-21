@@ -115,6 +115,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -210,6 +211,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
