@@ -287,6 +287,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -294,17 +295,20 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Trie
