@@ -290,6 +290,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -299,6 +300,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -314,6 +316,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
