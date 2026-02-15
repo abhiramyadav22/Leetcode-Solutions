@@ -335,6 +335,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +380,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
