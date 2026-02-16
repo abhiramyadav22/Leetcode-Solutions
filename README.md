@@ -64,6 +64,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -249,6 +250,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
