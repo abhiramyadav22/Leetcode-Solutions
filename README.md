@@ -253,6 +253,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0190-reverse-bits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
