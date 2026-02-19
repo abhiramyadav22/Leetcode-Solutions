@@ -264,6 +264,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -274,6 +275,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
