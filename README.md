@@ -65,6 +65,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -173,6 +174,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -277,6 +279,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
