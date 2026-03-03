@@ -129,6 +129,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -164,6 +165,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Geometry
 |  |
@@ -247,6 +249,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting
@@ -455,6 +458,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3453-separate-squares-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Queue
