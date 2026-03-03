@@ -303,6 +303,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -487,6 +488,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -536,4 +538,8 @@ Problems are continuously added as I solve new challenges on LeetCode.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
