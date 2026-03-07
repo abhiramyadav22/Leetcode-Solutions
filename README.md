@@ -379,6 +379,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -399,6 +400,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -413,6 +415,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -433,6 +436,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
