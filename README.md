@@ -219,6 +219,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -382,6 +383,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -403,6 +405,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -418,6 +421,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -439,6 +443,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
