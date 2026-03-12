@@ -12,11 +12,9 @@ class Solution {
                     if ((x & newBits) == 0) { found = true; break; }
                 if (!found) { ok = false; break; }
             }
-
             if (ok) bits = newBits;
             else ans |= (1 << i);
         }
-
         return ans;
     }
 }
