@@ -152,6 +152,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3637-trionic-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +368,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
