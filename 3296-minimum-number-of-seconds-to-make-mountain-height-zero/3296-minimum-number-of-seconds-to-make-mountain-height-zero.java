@@ -1,6 +1,6 @@
 class Solution {
     public long minNumberOfSeconds(int h, int[] w) {
-        long l = 0, r = (long)1e18;
+        long l = 0, r = (long)Math.pow(10, 18);
         while (l < r) {
             long mid = (l + r) / 2;
             long total = 0;
