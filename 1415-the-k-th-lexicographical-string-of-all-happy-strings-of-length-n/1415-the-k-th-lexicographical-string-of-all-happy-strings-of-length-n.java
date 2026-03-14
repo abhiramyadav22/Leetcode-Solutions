@@ -1,24 +1,22 @@
 class Solution {
+    List<String> res = new ArrayList<>();
+
     public String getHappyString(int n, int k) {
-        int sz = 3 * (1 << (n - 1));
-        if (k > sz) return "";
+        generate("", n);
+        if (k > res.size()) return "";
+        return res.get(k - 1);
+    }
 
-        int base = 1 << (n - 1);
-        int q = (k - 1) / base;
-        int r = (k - 1) % base;
-
-        char[] s = new char[n];
-        s[0] = (char)('a' + q);
-        char[][] xx = {
-            {'b', 'c'},
-            {'a', 'c'},
-            {'a', 'b'}
-        };
-        for (int i = n - 2; i >= 0; i--) {
-            int idx = s[n - 2 - i] - 'a';
-            int bit = (r >> i) & 1;
-            s[n - 1 - i] = xx[idx][bit];
+    void generate(String s, int n) {
+        if (s.length() == n) {
+            res.add(s);
+            return;
         }
-        return new String(s);
+
+        for (char c : new char[]{'a','b','c'}) {
+            if (s.length() == 0 || s.charAt(s.length()-1) != c) {
+                generate(s + c, n);
+            }
+        }
     }
 }
