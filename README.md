@@ -169,6 +169,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1323-maximum-69-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1622-fancy-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -487,6 +488,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1622-fancy-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +519,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
