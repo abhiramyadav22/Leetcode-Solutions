@@ -398,6 +398,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -424,6 +425,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -465,6 +467,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -547,6 +550,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
