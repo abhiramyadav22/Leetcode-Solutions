@@ -82,6 +82,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -127,6 +128,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -171,6 +173,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1622-fancy-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -200,6 +203,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -371,6 +375,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -531,6 +536,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
