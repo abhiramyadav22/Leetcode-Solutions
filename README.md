@@ -181,6 +181,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3870-count-commas-in-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
