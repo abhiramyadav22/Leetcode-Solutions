@@ -180,6 +180,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3870-count-commas-in-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
