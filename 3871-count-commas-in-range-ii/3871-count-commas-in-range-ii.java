@@ -1,9 +1,14 @@
 class Solution {
     public long countCommas(long n) {
-        long res = 0;
-        for (long i = 1000; i <= n; i *= 1000) {
-            res += n - i + 1;
+        if (n < 1000) return 0;
+        long count = 0;
+        count += n - 999;
+        if (n >= 1_000_000) {
+            count += n - 999_999;
         }
-        return res;
+        if (n >= 1_000_000_000) {
+            count += n - 999_999_999;
+        }
+        return count;
     }
 }
