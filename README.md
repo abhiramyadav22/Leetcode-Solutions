@@ -145,6 +145,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -387,6 +388,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Tree
@@ -551,6 +553,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3714-longest-balanced-substring-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
