@@ -135,6 +135,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -215,6 +216,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
@@ -273,6 +275,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
