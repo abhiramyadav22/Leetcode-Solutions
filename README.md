@@ -159,6 +159,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
@@ -321,6 +322,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +397,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Tree
