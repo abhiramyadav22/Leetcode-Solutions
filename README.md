@@ -130,6 +130,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -391,6 +392,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
