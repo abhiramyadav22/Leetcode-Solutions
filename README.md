@@ -421,6 +421,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -448,6 +449,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -490,6 +492,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -582,6 +585,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
