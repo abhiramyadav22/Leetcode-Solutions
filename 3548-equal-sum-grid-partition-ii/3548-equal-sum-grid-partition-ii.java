@@ -69,8 +69,6 @@ class Solution {
         return grid[r1][c1] == diff || grid[r2][c2] == diff;
     }else {
     return grid[r1][c1] == diff || grid[r2][c1] == diff;
-
     }
 }
-
 }
