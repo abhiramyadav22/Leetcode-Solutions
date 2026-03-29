@@ -359,6 +359,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
