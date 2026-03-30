@@ -227,6 +227,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -250,6 +251,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -360,6 +362,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
