@@ -362,6 +362,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -622,6 +623,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3379-transformed-array) |
