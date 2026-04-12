@@ -367,6 +367,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0767-reorganize-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -396,6 +397,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0678-valid-parenthesis-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0799-champagne-tower) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
