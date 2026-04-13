@@ -132,6 +132,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
