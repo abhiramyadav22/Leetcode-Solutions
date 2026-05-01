@@ -106,6 +106,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0088-merge-sorted-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -190,6 +191,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -396,6 +398,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0045-jump-game-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
