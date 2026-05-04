@@ -98,6 +98,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -187,6 +188,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -434,6 +436,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
