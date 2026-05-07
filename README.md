@@ -179,6 +179,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3660-jump-game-ix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -419,6 +420,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
