@@ -135,6 +135,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1390-four-divisors](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-subrectangle-queries](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
+| [1528-shuffle-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -399,6 +400,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1528-shuffle-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
