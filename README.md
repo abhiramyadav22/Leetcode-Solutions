@@ -203,6 +203,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
