@@ -386,6 +386,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
