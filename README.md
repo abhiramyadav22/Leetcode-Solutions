@@ -210,6 +210,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -687,6 +688,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -773,4 +775,8 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
