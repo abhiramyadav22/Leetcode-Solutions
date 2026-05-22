@@ -101,6 +101,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -634,6 +635,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
