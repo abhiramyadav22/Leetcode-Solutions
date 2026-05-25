@@ -614,6 +614,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Design
 | Problem Name | Difficulty |
