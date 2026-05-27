@@ -213,6 +213,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0172-factorial-trailing-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
