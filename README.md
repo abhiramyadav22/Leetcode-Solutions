@@ -228,6 +228,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2235-add-two-integers](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
