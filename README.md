@@ -178,6 +178,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -233,6 +234,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
