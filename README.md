@@ -108,6 +108,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -289,6 +290,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -480,6 +482,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
