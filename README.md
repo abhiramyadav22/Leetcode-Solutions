@@ -194,6 +194,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3546-equal-sum-grid-partition-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -283,6 +284,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Quickselect
@@ -357,6 +359,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -399,6 +402,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1861-rotating-the-box](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -665,6 +669,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3453-separate-squares-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
