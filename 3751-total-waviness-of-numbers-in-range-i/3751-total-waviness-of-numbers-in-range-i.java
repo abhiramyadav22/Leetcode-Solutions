@@ -6,9 +6,7 @@ class Solution {
             String s = String.valueOf(x);
 
             for (int i = 1; i < s.length() - 1; i++) {
-                if ((s.charAt(i) > s.charAt(i - 1) &&
-                     s.charAt(i) > s.charAt(i + 1)) ||
-                    (s.charAt(i) < s.charAt(i - 1) &&
+                if ((s.charAt(i) > s.charAt(i - 1) &&  s.charAt(i) > s.charAt(i + 1)) ||(s.charAt(i) < s.charAt(i - 1) &&
                      s.charAt(i) < s.charAt(i + 1))) {
                     ans++;
                 }
