@@ -114,6 +114,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -497,6 +498,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -564,6 +566,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -590,6 +593,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -799,6 +803,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
