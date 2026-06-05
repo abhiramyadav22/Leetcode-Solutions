@@ -243,6 +243,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
@@ -478,6 +479,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3660-jump-game-ix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
