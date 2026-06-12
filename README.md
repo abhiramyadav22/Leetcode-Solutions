@@ -198,6 +198,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -248,6 +249,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -403,6 +405,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3011-find-if-array-can-be-sorted](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -486,6 +489,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -569,6 +573,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +603,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1382-balance-a-binary-search-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
