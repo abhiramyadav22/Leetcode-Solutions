@@ -469,6 +469,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -774,6 +775,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Doubly-Linked List
