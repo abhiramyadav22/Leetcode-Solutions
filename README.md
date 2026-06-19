@@ -150,6 +150,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -733,6 +734,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
