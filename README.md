@@ -94,6 +94,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -196,6 +197,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -570,6 +572,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -656,6 +659,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -835,6 +839,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -842,6 +847,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
 | Problem Name | Difficulty |
