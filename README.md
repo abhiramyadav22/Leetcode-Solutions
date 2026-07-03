@@ -98,6 +98,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Merge Sort
@@ -213,6 +214,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -522,6 +524,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -740,6 +743,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3453-separate-squares-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -841,6 +845,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -848,6 +853,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -899,4 +905,8 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
