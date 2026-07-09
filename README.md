@@ -211,6 +211,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -354,6 +355,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -746,6 +748,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3453-separate-squares-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -849,6 +852,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -893,6 +897,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
