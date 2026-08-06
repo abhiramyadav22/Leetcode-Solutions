@@ -173,6 +173,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -494,6 +495,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
