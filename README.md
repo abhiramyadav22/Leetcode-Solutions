@@ -120,6 +120,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0055-jump-game](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -568,6 +569,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -822,6 +824,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
