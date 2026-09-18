@@ -371,6 +371,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +515,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [3614-process-string-with-special-operations-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
