@@ -254,6 +254,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0412-fizz-buzz](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -478,6 +479,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -829,6 +831,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0059-spiral-matrix-ii](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
