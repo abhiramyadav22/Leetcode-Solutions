@@ -134,6 +134,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0396-rotate-function](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -347,6 +348,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 | [0128-longest-consecutive-sequence](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -796,6 +798,7 @@ Problems are continuously added as I solve new challenges on LeetCode.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/abhiramyadav22/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
